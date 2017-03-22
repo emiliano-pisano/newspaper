@@ -14,7 +14,10 @@ img	{
 }
 .collumn{
     line-height: 25px;
-    column-count: 4;
+    column-count: 5;
+    
+    position: relative;
+
 }
 .collumn .headline{
     line-height: normal;
@@ -34,10 +37,15 @@ img	{
 }
 .content {
 	margin: 20px 20px 20px 20px;
+
 } 
 .head {
 	text-align: center;
 	position: relative;
+}
+.imageborder { 
+  border: 1px solid #000; 
+  padding: 5px;
 }	 	  	 	 					
 .subhead {
 	font-family: 'courier', sans-serif;
