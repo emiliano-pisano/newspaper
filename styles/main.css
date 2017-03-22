@@ -17,7 +17,7 @@ img	{
     column-count: 4;
 }
 .collumn .headline{
-    line-height: no;
+    line-height: normal;
 }
 .collumn .headline.hl1{
 	font-family: 'Verdana', serif;
