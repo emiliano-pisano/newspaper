@@ -15,9 +15,7 @@ img	{
 .collumn{
     line-height: 25px;
     column-count: 3;
-    
-    position: relative;
-
+     
 }
 .collumn .headline{
     line-height: normal;
