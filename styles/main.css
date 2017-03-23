@@ -3,7 +3,7 @@ body {
     font-size: 13px;
     text-align: justify;
     background-color: #ffe1dc;
-}
+  }
 header	{
 	font-family: 'algerian', sans-serif;
     font-weight: bold;
@@ -16,9 +16,10 @@ img	{
 .collumn{
     line-height: 25px;
     column-count: 5;
+    padding: 10px 20px 20px 20px;
 }
 .collumn .headline{
-    line-height: normal;
+    line-height: 25Px;
 }
 .collumn .headline.hl1{
 	font-family: 'Verdana', serif;
